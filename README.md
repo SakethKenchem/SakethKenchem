@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Python, JavaScript**
 
-- 🤝 I’m looking for help with [Nairobi Reporting Portal](https://github.com/SakethKenchem/Web-Based-Reporting-System-For-Community-Well-Being)
-
-- 📫 How to reach me **saketh.kenchem@strathmore.edu**
+- 📫 How to reach me **s.kenchem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
