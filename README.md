@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saketh Kenchem</h1>
 <h3 align="center">A passionate Computer science/Business Information Systems Student</h3>
 
-- 🔭 I’m currently working on [Nairobi Reporting Portal](https://github.com/SakethKenchem/Web-Based-Reporting-System-For-Community-Well-Being)
+- 🔭 I’m currently working on [Nairobi Reporting Portal](https://github.com/SakethKenchem/Nairobi-Reporting-Portal)
 
 - 🌱 I’m currently learning **Java, Python, JavaScript**
 
