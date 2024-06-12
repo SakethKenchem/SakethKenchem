@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saketh Kenchem</h1>
 <h3 align="center">A passionate Information Technology Student</h3>
 
-- 🔭 I’m currently working on [Nairobi Reporting Portal](https://github.com/SakethKenchem/NairobiReportingPortal), [Ecommerce Website](https://github.com/SakethKenchem/ecommerce))
+- 🔭 I’m currently working on [Nairobi Reporting Portal](https://github.com/SakethKenchem/NairobiReportingPortal), [Ecommerce Website](https://github.com/SakethKenchem/EcommerceProject))
 
 - 🌱 I’m currently learning **Livewire, Filament, Tailwind CSS, Alpine.JS**
 
