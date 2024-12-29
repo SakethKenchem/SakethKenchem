@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Saketh Kenchem</h1>
-<h3 align="center">A passionate Information Technology Student</h3>
-
 
 - 📫 How to reach me **s.kenchem@gmail.com**
 
